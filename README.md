@@ -16,6 +16,10 @@ The dashboard sources its data from a structured raw data sheet and presents key
 
 ---
 
+## Dataset Used
+
+<a href="http://github.com/Adishetty2/SALES_Data_Analysis_Dashboard/blob/main/Sales%20Dashboard.xlsm">Dataset</a>
+
 ## 💡 Features
 
 - 📅 **Daily Sales Tracking** for each sales executive
@@ -63,16 +67,9 @@ The dashboard sources its data from a structured raw data sheet and presents key
 - Microsoft Excel (2016 or later)
 - Macros must be enabled
 
----
 
-## 📸 Preview
 
-> _You can add a screenshot or GIF of your dashboard here._
 
----
 
-## 📬 Contact
 
-Created by **Adishetty2**  
-Feel free to connect or contribute!
 
